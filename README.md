@@ -6,4 +6,5 @@ These scripts depend on undetectable-chromedriver in order to call websites. Ple
 These scripts also come with batch files for windows users.
 Keep in mind Redbubble will always ask for captcha solves.
 Some of these scripts will use the facebook login to acquire access. Please insert facebook credentials where needed.
+Tiktok has captcha.
 
